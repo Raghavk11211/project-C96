@@ -1,0 +1,9 @@
+body
+{
+background-image: linear-gradient(to right top, #A020F0, #A020F0, #A020F0, #A020F0, #A020F0);
+}
+
+.header
+{
+	color: yellow;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
